@@ -22,3 +22,5 @@ linux有2种类型，一种包含终端的linux，一种不含终端的linux(Xsh
   
 ### centos常见软件安装
   centos安装vsftp服务、centos删除系统自带jdk-centos安装与配置jre1.8、centos安装与配置mysql、centos安装与配置tomcat8;
+  
+CTR+L 清屏 TAB自动提示		yum -y install XXX 安装XXX命令软件
