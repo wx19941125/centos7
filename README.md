@@ -1,4 +1,4 @@
-## Welcome to centos
+### Welcome to centos
 
 linux有2种类型，一种包含终端的linux，一种不含终端的linux(Xshell);
 
