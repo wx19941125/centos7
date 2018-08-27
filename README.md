@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to centos
 
-You can use the [editor on GitHub](https://github.com/wx19941125/centos7/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+linux有2种类型，一种包含终端的linux，一种不含终端的linux(Xshell);
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Xshell连接linux、centos查看ip地址;
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wx19941125/centos7/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### centos文件操作命令
+  
+  目录查询、创建目录、删除目录、复制-剪贴-重命名、链接命令(快捷方式);
+  
+### centos文件搜索命令
+  
+  find命令、locate命令、grep命令(Ctr+F)、whereis命令(命令及帮助文档目录);
+  
+ ### centos压缩与解压、打包与解包命令
+ 
+  centos压缩与解压命令、centos打包与解包命令;
+  
+ ### centos关机与重启命令
+  
+  centos关机与重启命令;
+  
+ ### centos常见软件安装
+  centos安装vsftp服务、centos删除系统自带jdk-centos安装与配置jre1.8、centos安装与配置mysql、centos安装与配置tomcat8;
