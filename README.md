@@ -12,13 +12,13 @@ linux有2种类型，一种包含终端的linux，一种不含终端的linux(Xsh
   
   find命令、locate命令、grep命令(Ctr+F)、whereis命令(命令及帮助文档目录);
   
- ### centos压缩与解压、打包与解包命令
+### centos压缩与解压、打包与解包命令
  
   centos压缩与解压命令、centos打包与解包命令;
   
- ### centos关机与重启命令
+### centos关机与重启命令
   
   centos关机与重启命令;
   
- ### centos常见软件安装
+### centos常见软件安装
   centos安装vsftp服务、centos删除系统自带jdk-centos安装与配置jre1.8、centos安装与配置mysql、centos安装与配置tomcat8;
